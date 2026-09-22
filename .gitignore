@@ -8,8 +8,7 @@ __pycache__/
 .idea/
 .gradio/
 
-# Local datasets and trained-model artifacts
-flower_images/
+# Local trained-model artifacts
 data/
 models/
 
